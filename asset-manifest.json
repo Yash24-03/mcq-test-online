@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mcq-test-online/static/css/main.7bbc2bfd.css",
-    "main.js": "/mcq-test-online/static/js/main.a779635a.js",
+    "main.css": "/mcq-test-online/static/css/main.652ae9eb.css",
+    "main.js": "/mcq-test-online/static/js/main.77c08949.js",
     "static/js/787.d3befce1.chunk.js": "/mcq-test-online/static/js/787.d3befce1.chunk.js",
     "index.html": "/mcq-test-online/index.html",
-    "main.7bbc2bfd.css.map": "/mcq-test-online/static/css/main.7bbc2bfd.css.map",
-    "main.a779635a.js.map": "/mcq-test-online/static/js/main.a779635a.js.map",
+    "main.652ae9eb.css.map": "/mcq-test-online/static/css/main.652ae9eb.css.map",
+    "main.77c08949.js.map": "/mcq-test-online/static/js/main.77c08949.js.map",
     "787.d3befce1.chunk.js.map": "/mcq-test-online/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7bbc2bfd.css",
-    "static/js/main.a779635a.js"
+    "static/css/main.652ae9eb.css",
+    "static/js/main.77c08949.js"
   ]
 }
